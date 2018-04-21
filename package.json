@@ -1,0 +1,11 @@
+{
+  "name": "jq-fal",
+  "version": "0.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "vendor"
+  ],
+  "author": "Paul Xu (paulxuca@gmail.com)"
+}
